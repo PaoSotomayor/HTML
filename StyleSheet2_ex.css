@@ -6,6 +6,10 @@ table thead tr th {
     background-color: #afaeae;
 }
 
+table tbody tr th {
+    text-align: left;
+}
+
 table,
 tr,
 th,
